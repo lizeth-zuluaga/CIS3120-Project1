@@ -1,6 +1,6 @@
 # CIS3120-Project1
 
-This project aims to explore the relationship between ESG scores and stock prices
+# This project aims to explore the relationship between ESG scores and stock prices
 
 Environmental, Social, and Governance (ESG) factors have become essential elements in evaluating the long-term sustainability and ethical practices of companies. In recent years, ESG scores have gained significant traction among investors, analysts, and policymakers due to growing concerns about environmental impact, social responsibility, and corporate governance. ESG metrics provide a way to assess how well companies manage risks related to these factors, making them increasingly relevant for investment decisions. Investors are not only looking at financial returns but also considering the broader impact of a company's activities on society and the environment. As a result, companies that perform well on ESG factors are often perceived as more sustainable and less risky, which can lead to better financial performance in the long run.
 The relationship between ESG scores and stock price performance has become an important area of research, as many believe that companies with strong ESG practices are likely to outperform their peers in the stock market. In this project, I will analyze how ESG scores affect stock price performance, using two key datasets to explore this relationship:
