@@ -16,13 +16,13 @@ I decided to export the cleaned data to a new CSV file (Cleaned_ESG_Data.csv) fo
 ## 4. Developed the esg_processor.py Class:
 I Built a reusable class to handle ESG data processing tasks, including loading, reshaping, and filtering data.
 Functions include:
-  # a. load_data: 
+   a. load_data: 
   Load the cleaned ESG dataset.
-  # b. reshape_data:
+   b. reshape_data:
   Reshape the data for analysis.
-  # c. clean_missing_values: 
+   c. clean_missing_values: 
   Replace invalid values with NaN.
-  # d. filter_data:
+   d. filter_data:
   Filter data by country and ESG indicator.
 ## 5. Obtained API(free) Key from Polygon:
 Generated an API key from Polygon.io to retrieve stock price data. (free key)
